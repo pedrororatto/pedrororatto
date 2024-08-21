@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm currently working at Firework Web&Mobile as a Fullstack developer. Studying bachelor's degree in information systems at UNESP. I love creating and participating in projects that impact people in a good way!
+I'm currently working at Jump Tecnologia as a Back-end developer. Studying bachelor's degree in information systems at UNESP. I have experience in developing small and medium-sized web applications, landing pages with WordPress, APIs and microservices. I love creating and participating in projects that impact people in a good way!
 
 ## Technologies
 
