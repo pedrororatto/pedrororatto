@@ -3,7 +3,7 @@
 
 ## About me
 
-With 3.5+ years of experience in backend and full-stack development, specializing in designing scalable architectures and efficient data processing systems, I'm currently working at Jump Tecnologia as a backend developer. Studying bachelor's degree in information systems at UNESP.  have experience developing small to medium-sized web applications (fullstack), APIs, and microservices, mainly using PHP, Laravel, and Vue.js. I've also worked with WordPress for landing pages and used Python, machine learning and Data Science in college to develop my Scientific Initiation and “TCC”. I love creating and participating in projects that impact people in a good way!
+With 3.5+ years of experience in backend and full-stack development, specializing in designing scalable architectures and efficient data processing systems, I'm currently working at Jump Tecnologia as a backend developer. Studying bachelor's degree in information systems at UNESP.  have experience developing small to medium-sized web applications (fullstack), APIs, and microservices, mainly using PHP, Laravel, and Vue.js. I've also worked with WordPress for landing pages and used Python, machine learning and Data Science in college to develop my Scientific Initiation and Final Project. I love creating and participating in projects that impact people in a good way!
 
 ## Technologies
 
